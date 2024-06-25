@@ -1,7 +1,7 @@
 trigger:
 - main
 pool:
-    name: myAgent
+    name: myAgents
 variables:
     buildConfiguration: 'Release'
 steps:
